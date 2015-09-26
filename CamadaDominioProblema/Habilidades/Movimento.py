@@ -11,8 +11,12 @@ __author__ = 'Gislaine'
 
 
 class Movimento(object):
-    def __init__(self):
+    def __init__(self,tipo):
         self.estrategia = None
         self.nome = None
         self.definicao = None
         self.direcoes = None
+
+    def start_tipo_moviemento(self, tipo):
+
+        return

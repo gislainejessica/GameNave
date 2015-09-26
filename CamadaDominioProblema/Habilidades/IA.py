@@ -1,5 +1,5 @@
 #!/usr/local/bin/python
-from CamadaDominioProblema.Habilidades import Missel
+#from CamadaDominioProblema.Habilidades import Municao
 
 # -------------------------------------------------------------------------------
 # Name:        Nave Maluca 1.1
@@ -11,6 +11,7 @@ from CamadaDominioProblema.Habilidades import Missel
 __author__ = 'Gislaine'
 
 
-class IA(Missel):
+class IA():
     def __init__(self):
-        self.super.__init__()
+        #self.super.__init__()
+        self.i = 0
