@@ -1,5 +1,5 @@
 #!/usr/local/bin/python
-from CamadaDominioProblema.Veiculo import Inimigo
+from CamadaDominioProblema.Veiculo import Nave
 
 # -------------------------------------------------------------------------------
 # Name:        Nave Maluca 1.1
@@ -11,6 +11,12 @@ from CamadaDominioProblema.Veiculo import Inimigo
 __author__ = 'Gislaine e Izabely'
 
 
-class Subordinado(Inimigo):
+class Inimigo(Nave):
     def __init__(self, nome, figura):
-        super.__init__(nome, figura)
+        super(nome, figura)
+        self.pontuacao_por_derrotar = 0
+        self.estrategia = None
+
+    def move(self):
+        self.posicao["y"] += self.velocidade["y"]
+        self.start_area()

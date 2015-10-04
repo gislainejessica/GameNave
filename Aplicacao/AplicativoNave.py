@@ -1,5 +1,8 @@
 #!/usr/local/bin/python
-from CamadaDominioProblema.Veiculo import Inimigo
+
+import CamadaControleInterface
+from CamadaControleInterface import Controle
+__version__ = "1.1"
 
 # -------------------------------------------------------------------------------
 # Name:        Nave Maluca 1.1
@@ -11,6 +14,9 @@ from CamadaDominioProblema.Veiculo import Inimigo
 __author__ = 'Gislaine e Izabely'
 
 
-class Subordinado(Inimigo):
-    def __init__(self, nome, figura):
-        super.__init__(nome, figura)
+def main():
+
+    CamadaControleInterface.Controle.menu_inicial()
+
+if __name__ == '__main__':
+    main()

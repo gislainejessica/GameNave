@@ -1,16 +1,15 @@
 #!/usr/local/bin/python
-import pygame
-from pygame.locals import *
+
 from CamadaDominioProblema.Veiculo import Nave
 
 # -------------------------------------------------------------------------------
 # Name:        Nave Maluca 1.1
-# Author:      Gislaine
-# Created:     09/19/2015
-# Copyright:   (c) Gislaine Jéssica 2015
+# Author:      Gislaine e Izabely
+# Created:     09/29/2015
+# Copyright:   (c) Gislaine e Izabely 2015
 # Licence:     GIZ
 # -------------------------------------------------------------------------------
-__author__ = 'Gislaine'
+__author__ = 'Gislaine e Izabely'
 
 
 class Jogador(Nave):
@@ -20,4 +19,3 @@ class Jogador(Nave):
         self.fase = 0
         self.pontuacao = 0
         self.tempoMissel = 0
-
