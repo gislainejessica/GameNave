@@ -1,5 +1,5 @@
-from src.util.Build import NaveProduct
-from src.util.Build import INaveBuilder
+from GameNave4.src.util.Build import NaveProduct
+from GameNave4.src.util.Build import INaveBuilder
 from abc import (abstractmethod)
 
 

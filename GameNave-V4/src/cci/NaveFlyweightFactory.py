@@ -1,12 +1,12 @@
 #!/usr/local/bin/python
 
-from src.util.Build import NaveBossBuilder
-from src.util.Build import NaveFugaBuilder
-from src.util.Build import NaveGrupoBuilder
-from src.util.Build import NaveJogadorBuilder
-from src.util.Build import NavePeaoBuilder
-from src.util.Build import NavePerdidaBuilder
-from src.util.Build import NavePersegueBuilder
+from GameNave4.src.util.Build import NaveBossBuilder
+from GameNave4.src.util.Build import NaveGrupoBuilder
+from GameNave4.src.util.Build import NaveJogadorBuilder
+from GameNave4.src.util.Build import NavePeaoBuilder
+from GameNave4.src.util.Build import NavePerdidaBuilder
+from GameNave4.src.util.Build import NavePersegueBuilder
+from GameNave4.src.util.Build import NaveFugaBuilder
 
 # -------------------------------------------------------------------------------
 # Name:        Nave Maluca 4.1

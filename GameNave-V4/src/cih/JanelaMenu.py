@@ -1,7 +1,7 @@
 #!/usr/local/bin/python
 import pygame
-from src.cci.Metricas import Metricas
-from src.cih import ItemMenu
+from GameNave4.src.cci.Metricas import Metricas
+from GameNave4.src.cih import ItemMenu
 # -------------------------------------------------------------------------------
 # Name:        Nave Maluca 1.1
 # Author:      Gislaine  e Izabely

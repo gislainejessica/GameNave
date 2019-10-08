@@ -1,4 +1,4 @@
-from src.util.FabricaItem import FabricaItem
+from GameNave4.src.util.FabricaItem import FabricaItem
 
 
 class FabricaClone(FabricaItem):

@@ -1,6 +1,6 @@
-from src.util.Build.NaveBuilder import NaveBuilder
-from src.util.FabricaNaves.FabricaNaveGrupo import FabricaNaveGrupo
-from src.cgd import Path
+from GameNave4.src.util.Build.NaveBuilder import NaveBuilder
+from GameNave4.src.util.FabricaNaves.FabricaNaveGrupo import FabricaNaveGrupo
+from GameNave4.src.cgd import Path
 
 
 class NaveGrupoBuilder(NaveBuilder):

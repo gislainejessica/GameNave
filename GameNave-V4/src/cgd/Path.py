@@ -10,4 +10,4 @@ __author__ = 'gislaine'
 # -------------------------------------------------------------------------------
 
 def get_path():
-    return '/home/gislaine/GameNave4/Dados'
+    return '/home/gislaine/GameNave/GameNave4/Dados'

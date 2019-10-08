@@ -1,5 +1,5 @@
-from src.cdp.Habilidades import Resistencia
-from src.util.FabricaNaves import FabricaNave
+from GameNave4.src.cdp.Habilidades import Resistencia
+from GameNave4.src.util.FabricaNaves import FabricaNave
 
 
 class FabricaNaveJogador(FabricaNave.FabricaNave):

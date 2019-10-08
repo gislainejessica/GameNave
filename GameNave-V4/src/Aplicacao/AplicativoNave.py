@@ -1,5 +1,5 @@
 #!/usr/local/bin/python
-from src.cci import Controle
+from GameNave4.src.cci import Controle
 
 __version__ = "4.1"
 

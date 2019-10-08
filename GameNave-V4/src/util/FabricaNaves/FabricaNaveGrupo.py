@@ -1,6 +1,6 @@
-from src.cci.Metricas import Metricas
-from src.cdp.Habilidades import Resistencia
-from src.util.FabricaNaves import FabricaNaveInimiga
+from GameNave4.src.cci.Metricas import Metricas
+from GameNave4.src.cdp.Habilidades import Resistencia
+from GameNave4.src.util.FabricaNaves import FabricaNaveInimiga
 
 
 class FabricaNaveGrupo(FabricaNaveInimiga.FabricaNaveInimiga):

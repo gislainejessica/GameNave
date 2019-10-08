@@ -3,11 +3,11 @@ import sys
 import random
 import pygame
 from pygame.locals import *
-from src.cci import NaveFlyweightFactory
-from src.cdp.Personagens import Personagem
-from src.cih import Impressao
-from src.cih import JanelaMenu
-from src.cci.Metricas import Metricas
+from GameNave4.src.cci import NaveFlyweightFactory
+from GameNave4.src.cdp.Personagens import Personagem
+from GameNave4.src.cih import Impressao
+from GameNave4.src.cih import JanelaMenu
+from GameNave4.src.cci.Metricas import Metricas
 
 # -------------------------------------------------------------------------------
 # Name:        Nave Maluca 4.1

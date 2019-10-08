@@ -1,5 +1,5 @@
-from src.util.FabricaItem import FabricaMunicao
-from src.cgd import Path
+from GameNave4.src.util.FabricaItem import FabricaMunicao
+from GameNave4.src.cgd import Path
 
 
 class FabricaMunicao2(FabricaMunicao):

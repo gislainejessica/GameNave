@@ -1,4 +1,4 @@
-from src.cdp.Habilidades.Municao import Municao
+from GameNave4.src.cdp.Habilidades.Municao import Municao
 
 __author__ = 'IzabelyFurtado'
 

@@ -1,14 +1,14 @@
 import pygame
 import unittest
-from src.cci.Metricas import Metricas
-from src.cdp.Habilidades import Municao
-from src.cdp.Habilidades import Resistencia
-from src.util.FabricaNaves import FabricaNave
-from src.util.FabricaNaves import FabricaNaveFuga
-from src.util.FabricaNaves import FabricaNaveGrupo
-from src.util.FabricaNaves import FabricaNavePeao
+from GameNave4.src.cci.Metricas import Metricas
+from GameNave4.src.cdp.Habilidades import Municao
+from GameNave4.src.cdp.Habilidades import Resistencia
+from GameNave4.src.util.FabricaNaves import FabricaNave
+from GameNave4.src.util.FabricaNaves import FabricaNaveFuga
+from GameNave4.src.util.FabricaNaves import FabricaNaveGrupo
+from GameNave4.src.util.FabricaNaves import FabricaNavePeao
 
-from src.cgd import Path
+from GameNave4.src.cgd import Path
 
 __author__ = 'Izabely'
 

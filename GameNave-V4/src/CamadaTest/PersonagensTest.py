@@ -1,4 +1,4 @@
-from src.cdp.Personagens.Jogador import Jogador
+from GameNave4.src.cdp.Personagens.Jogador import Jogador
 
 __author__ = 'IzabelyFurtado'
 

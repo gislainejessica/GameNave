@@ -1,5 +1,5 @@
-from src.cdp.Habilidades import Resistencia
-from src.cdp.Personagens import Personagem
+from GameNave4.src.cdp.Habilidades import Resistencia
+from GameNave4.src.cdp.Personagens import Personagem
 
 
 class Jogador(Personagem):

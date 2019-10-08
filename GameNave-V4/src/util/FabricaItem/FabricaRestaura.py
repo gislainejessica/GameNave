@@ -1,5 +1,5 @@
-from src.util.FabricaItem import FabricaItem
-from src.cgd import Path
+from GameNave4.src.util.FabricaItem import FabricaItem
+from GameNave4.src.cgd import Path
 
 
 class FabricaRestaura(FabricaItem):

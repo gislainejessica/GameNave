@@ -1,4 +1,4 @@
-from src.util.FabricaNaves import FabricaNave
+from GameNave4.src.util.FabricaNaves import FabricaNave
 
 
 class FabricaNaveInimiga(FabricaNave.FabricaNave):

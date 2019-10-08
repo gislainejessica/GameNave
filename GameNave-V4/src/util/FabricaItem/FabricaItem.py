@@ -1,4 +1,4 @@
-from src.util import FabricaObjeto
+from GameNave4.src.util import FabricaObjeto
 
 
 class FabricaItem(FabricaObjeto):

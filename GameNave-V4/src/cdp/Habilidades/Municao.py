@@ -3,8 +3,8 @@ import random
 import pygame
 import sys
 from pygame.rect import Rect
-from src.cci.Metricas import Metricas
-from src.cgd import Path
+from GameNave4.src.cci.Metricas import Metricas
+from GameNave4.src.cgd import Path
 # -------------------------------------------------------------------------------
 # Name:        Nave Maluca 2.1
 # Author:      Gislaine e Izabely

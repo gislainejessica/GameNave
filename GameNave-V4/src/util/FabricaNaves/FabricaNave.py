@@ -1,7 +1,7 @@
 import pygame
-from src.cdp.Habilidades import Resistencia
-from src.cdp.Habilidades import Municao
-from src.util import FabricaObjeto
+from GameNave4.src.cdp.Habilidades import Resistencia
+from GameNave4.src.cdp.Habilidades import Municao
+from GameNave4.src.util import FabricaObjeto
 
 
 class FabricaNave(FabricaObjeto.FabricaObjeto):

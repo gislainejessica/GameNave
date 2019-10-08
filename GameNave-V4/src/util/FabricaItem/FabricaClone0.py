@@ -1,5 +1,5 @@
-from src.util.FabricaItem import FabricaClone
-from src.cgd import Path
+from GameNave4.src.util.FabricaItem import FabricaClone
+from GameNave4.src.cgd import Path
 
 
 class FabricaClone0(FabricaClone):
